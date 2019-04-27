@@ -174,3 +174,5 @@ bar {
         binding_mode        #b71c1c      #b71c1c     #00000000
   }
 }
+
+exec_always xset -dpms led s off
